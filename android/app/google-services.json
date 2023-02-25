@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072956793538",
+    "project_id": "future-chat-eed1e",
+    "storage_bucket": "future-chat-eed1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072956793538:android:a92185ee83ad657f69515b",
+        "android_client_info": {
+          "package_name": "com.example.future_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072956793538-ilfd9f7vovdgh0t2cis44558dgg07b43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQz1-S5R0JfelHOPJb0GQnCCCYDHhsCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072956793538-ilfd9f7vovdgh0t2cis44558dgg07b43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
